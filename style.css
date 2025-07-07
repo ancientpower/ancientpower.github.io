@@ -20,6 +20,7 @@ body{
 .li_styles{
     font-family: Arial, sans-serif;
     font-variant-caps: all-small-caps;
+    font-weight: 600;
     font-size: 20px;
     margin: 0 3%;
     background-color: inherit;
