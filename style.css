@@ -15,9 +15,10 @@ body{
 }
 
 li{
-    font-family: "Wide Latin", Impact, "Arial Black", sans-serif;
+    font-family: "Arial Black", sans-serif;
+    font-variant-caps: small-caps;
     padding: 1% 11%;
-    border: solid;
+    border: solid 2px;
     border-radius: 10px;
     background-color: inherit;
 }
