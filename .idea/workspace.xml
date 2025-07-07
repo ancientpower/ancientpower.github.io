@@ -32,6 +32,7 @@
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.test.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
